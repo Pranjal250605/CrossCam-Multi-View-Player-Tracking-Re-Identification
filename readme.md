@@ -8,6 +8,9 @@ This project performs real-time multi-view player tracking and re-identification
 
 Given two perspective-shifted video recordings of the same match (Broadcast and Tacticam), the goal is to assign consistent player IDs to the same individuals across both views — even under occlusions, exits/re-entries, or missed detections.
 
+<img width="1919" height="265" alt="image" src="https://github.com/user-attachments/assets/9e0849f8-c5b0-4a0b-9dea-87bbecb1ffa0" />
+
+
 ### Key Challenges
 
 - Occlusion and missed detections
