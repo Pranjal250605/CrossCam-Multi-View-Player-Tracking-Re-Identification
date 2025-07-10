@@ -1,0 +1,23 @@
+ultralytics==8.1.26
+opencv-python
+numpy
+scikit-learn
+easyocr
+open_clip_torch
+mediapipe
+torch
+torchvision
+torchaudio
+matplotlib
+scipy
+
+Optional extras (commented):
+
+tqdm # progress bars (optional)
+pandas # for structured data handling (if needed)
+onnxruntime # if you plan to run ONNX models
+pillow # image handling backend
+Usage:
+
+pip install -r requirements.txt
+
