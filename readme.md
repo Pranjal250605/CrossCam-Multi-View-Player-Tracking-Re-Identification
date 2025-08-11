@@ -187,3 +187,6 @@ cross_view_output.mp4
 
 ---
 
+Contributor:
+- Pranjal
+- Mayur
